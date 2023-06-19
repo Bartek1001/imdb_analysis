@@ -1,4 +1,4 @@
-This project is an example of data analysis (movies) in Python.
+This project is an example of data analysis (movies) in Python (PyCharm).
 Dataset is taken from Kaggle. Link: https://www.kaggle.com/datasets/danielgrijalvas/movies
 All graphs are saved in png format in this folder.
 
